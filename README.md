@@ -18,3 +18,6 @@ Steps to install Pygame :
 ![g3](https://github.com/sapce-techy/The-Runner/assets/73981465/11010412-459c-4f80-8cec-9c8e271c531c)
 
 
+
+Credits :
+  https://www.youtube.com/@ClearCode
