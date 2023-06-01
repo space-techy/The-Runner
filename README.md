@@ -6,7 +6,7 @@ Just Run Runner.py
 
 
 Steps to install Pygame :
-  1.open command prompt
-  2.Type pip install pygame
-  3.Confirm it by retyping (step 2.
+  1.open command prompt\n
+  2.Type pip install pygame\n
+  3.Confirm it by retyping (step 2).\n
   
