@@ -21,3 +21,5 @@ Steps to install Pygame :
 
 Credits :
   https://www.youtube.com/@ClearCode
+
+This was a group project in which me and Arunil Pandey contributed!
